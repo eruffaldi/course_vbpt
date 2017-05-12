@@ -44,3 +44,8 @@ Mapping of Kinect 2 pose to a Kinematic model with Joints and Skeleton
 - render views with noise
 - train CNN recognizer
 - test on real world
+
+### Personalized Model
+
+- Fitting della scansione della persona sul modello Make Human (parametrizzazione del corpo)
+- 

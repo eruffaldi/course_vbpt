@@ -17,7 +17,13 @@ https://neuronmocap.com/content/product/18-neuron-bob
 
 https://www.rokoko.com/en/
 
+Related Project: Varie di VR
+
 ### Skeleton 2D da Deep Learning
+
+Tecnica MPI
+
+Related Project: SAILPORT INAIL
 
 ### Walking Dataset
 
@@ -25,6 +31,16 @@ RAMCIP fatigue con Kinect1+Kinect2+Vicon
 
 Comparison  of two cameras and effect of distance with the camera
 
+Related Project: RAMCIP
+
 ### Biomechanical Refinement
 
 Mapping of Kinect 2 pose to a Kinematic model with Joints and Skeleton
+
+
+### Automated Training from Make Human
+
+- create dataset from MakeHuman
+- render views with noise
+- train CNN recognizer
+- test on real world
